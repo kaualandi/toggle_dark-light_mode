@@ -9,11 +9,11 @@
 > Altere entre claro e escuro com animação e salvamento no localStorage
 ---
 
+### ✨ [Demo](https://kaualandi.github.io/toggle_dark-light_mode/)
+
 [![Assista](https://kaualandi.github.io/toggle_dark-light_mode/exemple.gif)](https://kaualandi.github.io/toggle_dark-light_mode/exemple.gif)
 
 ---
-
-### ✨ [Demo](https://kaualandi.github.io/toggle_dark-light_mode/)
 
 ## Como usar | [Wiki](https://github.com/kaualandi/toggle_dark-light_mode/wiki)
 
