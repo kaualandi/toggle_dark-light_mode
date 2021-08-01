@@ -8,8 +8,11 @@
 
 > Altere entre claro e escuro com animação e salvamento no localStorage
 ---
-<img alt="Gif demo" src="exemple.webm" />
+
+<img alt="Gif demo" src="https://kaualandi.github.io/toggle_dark-light_mode/exemple.webm" />
+
 ---
+
 ### ✨ [Demo](https://kaualandi.github.io/toggle_dark-light_mode/)
 
 ## Como usar | [Wiki](https://github.com/kaualandi/toggle_dark-light_mode/wiki)
