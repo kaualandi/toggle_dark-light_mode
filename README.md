@@ -7,10 +7,12 @@
 </p>
 
 > Altere entre claro e escuro com animação e salvamento no localStorage
-
+---
+<img alt="Gif demo" src="exemple.webm" />
+---
 ### ✨ [Demo](https://kaualandi.github.io/toggle_dark-light_mode/)
 
-## Como usar
+## Como usar | [Wiki](https://github.com/kaualandi/toggle_dark-light_mode/wiki)
 
 > Caso queria alterar o tamanho do SVG altere as tags width e height dos SVG's e as linhas 50 e 51 do __style.css__
 
