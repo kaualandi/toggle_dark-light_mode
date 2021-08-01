@@ -15,14 +15,14 @@
 > Caso queria alterar o tamanho do SVG altere as tags width e height dos SVG's e as linhas 50 e 51 do __style.css__
 
 Cole na tag head
-```html <link rel="stylesheet" href="style.css">```
+```<link rel="stylesheet" href="style.css">```
 
 Cole no fim do body
-```html <script src="script.js"></script>```
+```<script src="script.js"></script>```
 
 > Você pode colocar o estilo e o script no proprio arquivo __index.html__ se quiser
 
-Cole a div ```html <div id="container-toggle-theme">``` e todo o seu conteúdo no local que ficará o botão.
+Cole a div ```<div id="container-toggle-theme">``` e todo o seu conteúdo no local que ficará o botão.
 
 ## Autor
 
